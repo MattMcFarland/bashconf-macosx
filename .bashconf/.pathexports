@@ -1,0 +1,29 @@
+#
+# Homebrew
+#
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=/usr/local/bin:$PATH
+
+#
+# Local Bin (no sudo)
+#
+export PATH="$PATH:$HOME/local/lib/bin"
+export PATH="$PATH:$HOME/local/bin"
+
+
+#
+# Ruby RVM
+#
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+
+
+#
+# Heroku
+#
+export PATH="/usr/local/heroku/bin:$PATH"
+
+
+#
+# Using Python 3.4
+#
+export PATH=/Library/Frameworks/Python.framework/Versions/3.4/bin:$PATH
