@@ -8,6 +8,10 @@ A clean way to manage your .profile leveraging the `source` command.
 
 ## Rapid Install
 
+### Disclaimer
+
+Do this at your own risk, back up your .profile. 
+
 `git clone https://github.com/MattMcFarland/bashconf.git $HOME`
 
 ## Review
