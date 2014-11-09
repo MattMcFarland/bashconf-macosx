@@ -6,11 +6,11 @@ A custom and modular .profile / .bashrc file
 
 A clean way to manage your .profile leveraging the `source` command.
 
-## Rapid Install
-
 ### Disclaimer
 
 Do this at your own risk, back up your .profile. 
+
+## Rapid Install
 
 `git clone https://github.com/MattMcFarland/bashconf.git $HOME`
 
